@@ -1,4 +1,4 @@
-# Flatdango - Movie Ticket Booking Web App
+# Flatdango - Movie Ticket Booking Web App:author by HENRY BOGITA
 
 Flatdango is a web application that allows users to purchase movie tickets from the Flatiron Movie Theater.
 
@@ -10,6 +10,9 @@ Flatdango is a web application that allows users to purchase movie tickets from 
 - [Project Setup](#project-setup)
   - [Installation](#installation)
   - [Usage](#usage)
+- [Features](#features)
+- [Bonus Features](#bonus-features)
+- [Extra Bonus Features](#extra-bonus-features)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -25,3 +28,11 @@ Flatdango is an online movie ticket booking application for the Flatiron Movie T
 ## Pre-requisite Data
 
 You can use [this JSON file](link_to_db.json) for your server DB.
+
+## Project Setup
+
+### Installation
+
+1. **Clone the Repository:**
+   ```bash
+   git clone <repository-url>
