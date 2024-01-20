@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  #movie-details {
+    float: left;
+    width: 50%;
+    padding: 20px;
+  }
+  
+  ul#films {
+    float: left;
+    width: 50%;
+    list-style-type: none;
+    padding: 20px;
+  }
+  
+  li.film.item {
+    cursor: pointer;
+    margin-bottom: 10px;
+  }
+  
+  li.sold-out.film.item {
+    color: red; /* Customize sold-out style */
+  }
+  
